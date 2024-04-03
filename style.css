@@ -2,3 +2,23 @@ h1{
     font-size: large;
     color: aqua;
 }
+header{
+    background-color: bisque;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+header a{
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.box{
+    height: 250px;
+    width: 50px;
+    margin: 100px;
+    background-color: aquamarine;
+    color: aliceblue;
+}
